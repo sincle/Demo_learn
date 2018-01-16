@@ -1,1 +1,6 @@
-include ':app', ':aidl_binder', ':aidl_client'
+include ':app', ':messenger_server', ':messenger_client'
+//include 'mobileapi'
+//include 'aidl_binder'
+//include 'aidl_client'
+//include 'messenger_server'
+//include 'messenger_client'
